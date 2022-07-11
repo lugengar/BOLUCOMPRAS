@@ -1,0 +1,56 @@
+* {
+  color: burlywood;
+  text-align: center;
+}
+ul {
+  border-radius: 25px;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  font-size: 40px;
+  overflow: hidden;
+  background-color: darkviolet;
+}
+ul :hover {
+  background-color: antiquewhite;
+}
+
+li {
+  display: inline;
+  margin: 10px;
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 10px;
+}
+
+.d {
+  float: right;
+  background-color: darkorchid;
+  border-radius: 25px;
+}
+
+.elegido {
+  background-color: darkorchid;
+  border-radius: 25px;
+}
+
+.demas {
+  background-color: darkorchid;
+  border-radius: 25px;
+}
+body {
+  background-size: auto;
+}
+img {
+  width: 300px;
+  border: darkorchid solid 10px;
+  border-radius: 25px;
+}
+h1 {
+  background-color: darkorchid;
+  border: darkviolet solid 10px;
+  border-radius: 25px;
+}
